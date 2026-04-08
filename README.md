@@ -1,13 +1,13 @@
-# reconnaissance scanning tool for web weaknesses:
+# 🔍reconnaissance scanning tool for web weaknesses:
 
-## Note:disclaimer
+## ⚠️Note:disclaimer
 
-## Technologies
+## 🛠️Technologies
 
-## Features
+## ✨Features
 
-## The Process
+## ⚙️The Process
 
-## Prerequisites
+## 📋Prerequisites
 
-### Running the Project
+### 🚀Running the Project
