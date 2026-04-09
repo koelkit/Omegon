@@ -1,4 +1,5 @@
 # 🔍Web Scan Vulnerability Automator:
+A reconnaisance tool to scan a website
 
 ## ⚠️Note: disclaimer
 - **Authorization:** I designed this script to be executed only against systems you own or where you have explicit, written permission to test.
