@@ -15,5 +15,7 @@
 ## ⚙️The Process
 
 ## 📋Prerequisites
+- `Python (preferably latest version)`
+- `Kali machine (preferably latest version)`
 
 ### 🚀Running the Project
