@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logo/omegon-logo.png" width="250" alt="Omegon Logo">
 </p>
+
 <p align="center">
   <h3>A reconnaissance tool to scan a website for vulnerabilities</h3>
 </p>
