@@ -51,5 +51,5 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 - Install Nuclei: `sudo apt install nuclei -y && nuclei -ut`
 
 <p align="left">
-  <img src="assets/step-1.gif" alt="Omegon Demo1" width="600">
+  <img src="assets/step 1.gif" alt="Omegon Demo1" width="600">
 </p>
